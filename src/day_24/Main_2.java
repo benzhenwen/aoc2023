@@ -47,12 +47,6 @@ public class Main_2 {
 
     }
 
-    /*
-    x + vx * t == hailstone_x + v_hailstone_x * t
-    y + vy * t == hailstone_y + v_hailstone_y * t
-    z + vz * t == hailstone_z + v_hailstone_z * t
-     */
-
 
 
 }
